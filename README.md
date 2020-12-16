@@ -1,9 +1,14 @@
 # laba9
+
+
+Введеение размера матриц
+C++
+
+
+
 #include "windows.h"
 #include <iostream>
-
 using namespace std;
-
 int main()
 {
   SetConsoleCP(1251);
